@@ -1,0 +1,4 @@
+rootProject.name = 'androidPresentation'
+include 'HelloWorldJava'
+include 'HelloWorldGroovy'
+

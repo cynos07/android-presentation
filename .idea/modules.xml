@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloWorldGroovy/HelloWorldGroovy.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloWorldGroovy/HelloWorldGroovy.iml" group="HelloWorldGroovy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloWorldGroovy/HelloWorldGroovy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloWorldGroovy/HelloWorldGroovy_main.iml" group="HelloWorldGroovy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloWorldGroovy/HelloWorldGroovy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloWorldGroovy/HelloWorldGroovy_test.iml" group="HelloWorldGroovy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloWorldJava/HelloWorldJava.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloWorldJava/HelloWorldJava.iml" group="HelloWorldJava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloWorldJava/HelloWorldJava_main.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloWorldJava/HelloWorldJava_main.iml" group="HelloWorldJava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloWorldJava/HelloWorldJava_test.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloWorldJava/HelloWorldJava_test.iml" group="HelloWorldJava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidPresentation.iml" filepath="$PROJECT_DIR$/.idea/modules/androidPresentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidPresentation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/androidPresentation_main.iml" group="androidPresentation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidPresentation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/androidPresentation_test.iml" group="androidPresentation" />
+    </modules>
+  </component>
+</project>
