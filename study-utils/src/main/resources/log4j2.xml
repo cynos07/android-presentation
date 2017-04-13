@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <!-- Appender, Layout 설정 -->
+    <Appenders>
+        <!--console 어펜더와 file어펜더를 만들어주세요. 파일어펜더의 경로는 root/logs/로그명.log 입니다.-->
+        <!--패턴레이아웃은 다음과 같은 형태로.-->
+        <!--예시:-->
+        <!--2017-04-12 15:00:01,473  INFO [Logger명]-->
+    </Appenders>
+
+    <!-- Logger 설정 -->
+    <Loggers>
+        <!--studyLogger를 만들어주세요. level은 DEBUG이며 additivity는 false로 해주세요. 로깅은 파일과 콘솔 동시에 되야합니다.-->
+        <Root level="ERROR">
+            <AppenderRef ref="console"/>
+        </Root>
+    </Loggers>
+</Configuration>

@@ -10,8 +10,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/HelloWorldGroovy" />
-            <option value="$PROJECT_DIR$/HelloWorldJava" />
+            <option value="$PROJECT_DIR$/study-utils" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />
